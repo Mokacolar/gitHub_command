@@ -1,0 +1,11 @@
+Hello World! 
+
+1. git init 초기화후 ls -al로 확인
+
+2. git config --list : 설정확인, user.name, email 입력
+
+3. git config --global core.autocrlf true : OS별 줄바꿈 연동 
+
+4. git clone or git remote add origin {url}, -v 옵션으로 확인
+
+5. add, status, commit -m, push
